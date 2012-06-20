@@ -32,6 +32,14 @@ These questions cover employers who are large enough to have a dedicated develop
   * What tools do you use?
   * How many client-billable hours do you expect per week?
 
+*Markup:*
+- HTML5 or XHTML Strict?
+- Semantics Nazi or divs and spans as necessary?
+- Accessibility
+ * Do you use WAI-ARIA?
+ * Is accessible AJAX a priority?
+ * Do you ever test for accessibility with screen reader software or a testing service?
+
 *CSS:*
  - What, if any preprocessor do you use? (Sass, LESS, Stylus)
  - Do you subscribe to any particular CSS structure? (SMACSS, OOCSS)
