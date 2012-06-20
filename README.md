@@ -1,7 +1,7 @@
 front-end-developer-employer-questions
 ======================================
 
-The Front-end Job Interview Questions list (https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) is pretty awesome. It gave me the idea to have a list of questions for prospective employers.
+The Front-end Job Interview Questions list (https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) is pretty awesome--if you're and employer. It gave me the idea to have a list of questions for front-end developers to ask prospective employers.
 
 These questions cover employers who are large enough to have a dedicated development team. It should work reasonably well for both agencies and companies that are working on internal projects.
 
