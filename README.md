@@ -12,7 +12,6 @@ Offhand, I can think of the following:
  
 <strong>General Questions:</strong>
 - How do you define front end development?
-- 
 
 <strong>Project Management:</strong>
 - Do you have dedicated project managers?
