@@ -17,9 +17,9 @@ Offhand, I can think of the following:
 - Do you have dedicated project managers?
 - If so, how many, and how are they certified?
 - What is your development methodology?
-If Agile:
-  . What is your sprint length?
-  . How often to you push code live?
+ * If Agile:
+ * What is your sprint length?
+ * How often to you push code live?
 - How do you organize project teams?
 - What is an average project size in terms of days/weeks/team members?
 
