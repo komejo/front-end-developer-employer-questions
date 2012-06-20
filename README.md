@@ -19,19 +19,6 @@ These questions cover employers who are large enough to have a dedicated develop
  - Do you have a dress code?
  - How many hours a week does a typical FED spend in meetings?
  
-*Clients:*
- - What percentage of clients are internal vs external?
- - How often are clients in the office?
- - Who is the primary POC for client interactions?
- - Are FEDs expected to meet with clients?
- - Do you send FEDs on sales calls?
- - How do you handle difficult clients, in particular:
-  * feature creep / design changes
-  * "Make the logo bigger"
- - Do you track hours?
-  * What tools do you use?
-  * How many client-billable hours do you expect per week?
-
 *Markup:*
 - HTML5 or XHTML Strict?
 - Semantics Nazi or divs and spans as necessary?
@@ -100,6 +87,19 @@ These questions cover employers who are large enough to have a dedicated develop
  - What percentage of a build is dedicated to QA?
  - At what point in the build do you begin QA?
    (bonus for continuous or unit testing)
+
+*Clients:*
+ - What percentage of clients are internal vs external?
+ - How often are clients in the office?
+ - Who is the primary POC for client interactions?
+ - Are FEDs expected to meet with clients?
+ - Do you send FEDs on sales calls?
+ - How do you handle difficult clients, in particular:
+  * feature creep / design changes
+  * "Make the logo bigger"
+ - Do you track hours?
+  * What tools do you use?
+  * How many client-billable hours do you expect per week?
 
 *Bonus Questions*
  - What do you think about Google's 20% policy?
