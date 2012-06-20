@@ -32,6 +32,15 @@ These questions cover employers who are large enough to have a dedicated develop
   * What tools do you use?
   * How many client-billable hours do you expect per week?
 
+*CSS:*
+ - What, if any preprocessor do you use? (Sass, LESS, Stylus)
+ - Do you subscribe to any particular CSS structure? (SMACSS, OOCSS)
+
+*JavaScript:*
+ - What JavaScript libraries do you use, if any?
+ - Do you prioritize building interactions that work without JS enabled, or do you accept that all users will or should have JS?
+ - 
+
 *Project Management:*
  - Can you describe a typical project life cycle?
  - What is an average project size in terms of days/weeks/team members?
@@ -62,7 +71,6 @@ These questions cover employers who are large enough to have a dedicated develop
 *Coding Standards*
  - Do you have coding style guide?
   * Spaces or tabs?
- - What JavaScript libraries do you use, if any?
  - What do you use for version control?
  - Do you have a preferred CMS or development platform?
  - What is your standard development toolkit?
@@ -88,6 +96,8 @@ These questions cover employers who are large enough to have a dedicated develop
 *Bonus Questions*
  - What do you think about Google's 20% policy?
  - Do you send employees to tech conferences?
+  * Do you let them spend working hours creating talks to give at said conferences?
  - Do you ever bring in lunch/dinner during crunch times?
+ - Do you believe an employee should ever "stay as late as it takes to get the job done?"
 
 ~~~
