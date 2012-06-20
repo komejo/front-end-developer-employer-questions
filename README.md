@@ -75,6 +75,7 @@ Coding Team Questions
  - Do you have a coder blog?
  - Do you publish your code?
  - Do you allow employees to publish code?
+ - Do you know how to maneuver in and operate the Terminal?
 
 *Markup:*
 - HTML5 or XHTML Strict?
