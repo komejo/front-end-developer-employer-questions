@@ -71,7 +71,7 @@ These questions cover employers who are large enough to have a dedicated develop
  - Do you have coding style guide?
   * Spaces or tabs?
  - What do you use for version control?
- - What is the olders version of IE that you support?
+ - What is the oldest version of IE that you support?
  - Do you have a preferred CMS or development platform?
  - What is your standard development toolkit?
  - Macs or PCs?
