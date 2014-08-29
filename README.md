@@ -78,7 +78,7 @@ Coding Team Questions
 
 *Markup:*
 - HTML5 or XHTML Strict?
-- Semantics Nazi or divs and spans as necessary?
+- Semantics fanatic or divs and spans as necessary?
 - Accessibility
  * Do you use WAI-ARIA?
  * Is accessible AJAX a priority?
