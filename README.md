@@ -30,10 +30,10 @@ Management Questions
  - How do you organize project teams?
  - Do you use any project management software?
  - Do you have dedicated project managers?
-  * If so, how many?
-  * Are they certified / what certification?
+   * If so, how many?
+   * Are they certified / what certification?
  - What is your development methodology?
-  * If Agile, what is your sprint length?
+   * If Agile, what is your sprint length?
  - How often do you push code live?
  - Do you use a bug tracking/ticketing system?
  - What kind of seating arrangement do you have?
@@ -46,16 +46,16 @@ Management Questions
  - Are FEDs expected to meet with clients?
  - Do you send FEDs on sales calls?
  - How do you handle difficult clients, in particular:
-  * feature creep / design changes
-  * "Make the logo bigger"
+   * feature creep / design changes
+   * "Make the logo bigger"
  - Do you track hours?
-  * What tools do you use?
-  * How many client-billable hours do you expect per week?
+   * What tools do you use?
+   * How many client-billable hours do you expect per week?
 
 *Bonus Questions*
  - What do you think about Google's 20% policy?
  - Do you send employees to tech conferences?
-  * Do you let them spend working hours creating talks to give at said conferences?
+   * Do you let them spend working hours creating talks to give at said conferences?
  - Do you ever bring in lunch/dinner during crunch times?
  - Do you believe an employee should ever "stay as late as it takes to get the job done?"
 
@@ -65,7 +65,7 @@ Coding Team Questions
 
 *Coding Standards*
  - Do you have coding style guide?
-  * Spaces or tabs?
+   * Spaces or tabs?
  - What do you use for version control?
  - What is the oldest version of IE that you support?
  - Do you have a preferred CMS or development platform?
@@ -80,9 +80,9 @@ Coding Team Questions
 - HTML5 or XHTML Strict?
 - Semantics fanatic or divs and spans as necessary?
 - Accessibility
- * Do you use WAI-ARIA?
- * Is accessible AJAX a priority?
- * Do you ever test for accessibility with screen reader software or a testing service?
+  * Do you use WAI-ARIA?
+  * Is accessible AJAX a priority?
+  * Do you ever test for accessibility with screen reader software or a testing service?
 
 *CSS:*
  - What, if any preprocessor do you use? (Sass, LESS, Stylus)
@@ -94,13 +94,13 @@ Coding Team Questions
 
 *UX*
  - Do you have a UX team?
-  * if yes, can you give me an overview of your UX process?
+   * if yes, can you give me an overview of your UX process?
  - Do you do user testing?
  - What's your current approach to mobile?
 
 *Design*
  - Are FEDs involved in the design process?
-  * if so, at what point?
+   * if so, at what point?
  - How many design comps are created for a typical project?
  - What format do you use for design comps?
 
